@@ -1,0 +1,1 @@
+(&(objectCategory=Person)(sAMAccountName=*)(!(userAccountControl:1.2.840.113556.1.4.803:=2))(|(memberOf:1.2.840.113556.1.4.1941:=CN=xo-agents-common,OU=XenOrchestra,OU=Permissions,OU=Users,OU=domain,DC=domain,DC=local)(memberOf:1.2.840.113556.1.4.1941:=CN=xo-client-common,OU=XenOrchestra,OU=Permissions,OU=Users,OU=domain,DC=domain,DC=local))) 
