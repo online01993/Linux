@@ -1,0 +1,1 @@
+node /data/node_modules/meshcentral/meshctrl.js --url wss://mc.domain.com --loginuser mesh-robot --loginpass <<passwprdUser>> AddToUserGroup --id 'mesh//<<ID_группы_устройств>>' --groupid 'ugrp//<<ID_группы_пользователей>>' --rights <<Код_прав_для_команды_с_консоли>>
